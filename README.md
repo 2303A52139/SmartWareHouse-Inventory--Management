@@ -1,4 +1,4 @@
-# SmartWareHouse-Inventory--Management
+
 # 🏭 Smart Warehouse Inventory Management
 
 
@@ -276,7 +276,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👤 Author
 
-Sindhu Katakam
+Sanjana Kolipaka
 
 Smart Warehouse Inventory Management — RL & AI/ML Project
 

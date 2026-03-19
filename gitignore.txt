@@ -1,0 +1,9 @@
+# Project-specific
+data/raw/
+data/processed/
+models/saved/
+*.pkl
+*.csv
+*.xlsx
+*.h5
+assets/
